@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Oleksandr
 
-🎓 A student from **Sumy, Ukraine** - passionate about technology and building meaningful software.  
+🎓 Studying Delta Engineering at KSE University
 💡 Always exploring new tools and improving my craft.
 
 ---
