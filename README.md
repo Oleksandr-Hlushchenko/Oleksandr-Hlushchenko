@@ -1,6 +1,7 @@
 # 👋 Hi, I'm Oleksandr
 
 🎓 Studying Delta Engineering at KSE University
+
 💡 Always exploring new tools and improving my craft.
 
 ---
